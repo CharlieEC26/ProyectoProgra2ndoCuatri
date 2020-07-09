@@ -12,10 +12,6 @@ import javax.swing.JOptionPane;
  * @author carlo
  */
 public class ClasePrincipal {
-    public void GeraldF(){
-        JOptionPane.showMessageDialog(null, "SKrrr");        
-    }
-    
     //Listas
     String[] ListaProducto = {"Chayotes", "Papas", "Zanahorias", "Mangos",
         "Chile"};
