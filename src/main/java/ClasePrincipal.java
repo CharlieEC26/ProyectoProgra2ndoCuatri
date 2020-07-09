@@ -13,8 +13,7 @@ import javax.swing.JOptionPane;
  */
 public class ClasePrincipal {
     public void GeraldF(){
-        JOptionPane.showMessageDialog(null, "SKrrr");
-        //Jueputa
+        JOptionPane.showMessageDialog(null, "SKrrr");        
     }
     
     //Listas
