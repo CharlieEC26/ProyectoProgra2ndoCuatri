@@ -12,9 +12,7 @@ import javax.swing.JOptionPane;
  * @author carlo
  */
 public class ClasePrincipal {
-    public void testeo(){
-        
-    }
+    
     //Listas
     String[] ListaProducto = {"Chayotes", "Papas", "Zanahorias", "Mangos",
         "Chile"};
